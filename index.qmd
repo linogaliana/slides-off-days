@@ -9,7 +9,7 @@ institute: |
 date: 06-09-2023
 slide-number: true
 footer: |
-  **_Python pour la data science_, ENSAE**
+  **_Python pour la data science_, ENSAE (Retour sur [pythonds.linogaliana.fr](https://pythonds.linogaliana.fr/))**
 # uncomment for French presentations:
 lang: fr-FR
 # for blind readers:
