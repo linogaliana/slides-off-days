@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "index.html#présentation",
-    "href": "index.html#présentation",
-    "title": "Python pour la data science",
-    "section": "Présentation",
-    "text": "Présentation\n\nData-scientist à l’Insee\nCoordinateur d’un réseau des data-scientists dans l’administration:\n\nSite web: https://ssphub.netlify.app/ ;\n\n\n\n\nExpérience traitement big-data et NLP:\n\nCours opinionated ;\nDes conseils et des recommandations issues de l’expérience\n\n\n\n\n\n\n\n\nNote\n\n\n\n Envoyez-moi un mail (%20lino.galiana at insee dot fr) :\n\npour suivre l’actualité du réseau des data-scientists ;\nsi vous êtes intéressés par travailler dans l’administration ;"
+    "objectID": "index.html#contexte",
+    "href": "index.html#contexte",
+    "title": "Découvrir la data science avec OpenFoodFacts",
+    "section": "Contexte",
+    "text": "Contexte\n\nEvénement de formation à la data science à l’Insee\n\n150 personnes\n5 tutoriels guidés (inseefrlab.github.io/funathon2023)\n\n\n\n\nOpenFoodFacts: excellente base pour se former\n\nNettoyage textuels (NLP) ;\nClassification automatique ;\nDataviz et déploiement d’application."
   },
   {
-    "objectID": "index.html#objectifs-du-cours",
-    "href": "index.html#objectifs-du-cours",
-    "title": "Python pour la data science",
-    "section": "Objectifs du cours",
-    "text": "Objectifs du cours\n\nPouvoir utiliser Python  pour l’ensemble du processus de valorisation des données :\n\nRécupérer et structurer des données ;\nManipuler ;\nVisualiser ;\nModéliser.\n\n\n\n\nComprendre comment Python  sert dans une démarche de recherche ou de production ;\n\n\n\n\nS’initier à la question de la reproductibilité  (open-source, open-data…) ;\n\n\n\n\nDécouvrir la pratique moderne de Python  dans le monde de la data-science ;\n\n\n\n\nDécouvrir qu’on peut faire des choses sympa ✨ avec Python ."
-  },
-  {
-    "objectID": "index.html#organisation-du-cours",
-    "href": "index.html#organisation-du-cours",
-    "title": "Python pour la data science",
-    "section": "Organisation du cours",
-    "text": "Organisation du cours\n\n\nCours dure 21h avec des séances de 3h ;\n\n\n\nApprentissage à partir de TP ;\n\n\n\n\nValidation avec un projet de fin de semestre\n\nPlus de détails dans quelques instants"
-  },
-  {
-    "objectID": "index.html#contenu-mis-à-disposition",
-    "href": "index.html#contenu-mis-à-disposition",
-    "title": "Python pour la data science",
-    "section": "Contenu mis à disposition",
-    "text": "Contenu mis à disposition\n\n\nPoints d’entrée principaux :\n\nSite web : https://pythonds.linogaliana.fr/ ;\nDépôt Github  : https://github.com/linogaliana/python-datascientist\n\n Star this website on Github70\n\n\n\n\n\nDes tutoriels et exercices sous format Jupyter Notebook :\n\nPossibilité de les tester sur des environnements temporaires d’exécution\n\n\n\n\nPossibilité de les visualiser et télécharger au format Jupyter Notebook\n\n\n\n\n\n\n\n\n\n\n\n\nRecommandation\n\n\nPrivilégier le SSPCloud https://datalab.sspcloud.fr"
-  },
-  {
-    "objectID": "index.html#examen",
-    "href": "index.html#examen",
-    "title": "Python pour la data science",
-    "section": "Examen",
-    "text": "Examen\n\nProjet collaboratif s’appuyant sur Python \nrépondant à une démarche scientifique et ouverte:\n\nProjet disponible sur Github \nLe projet doit être documenté\n\n\n\n\nSujet libre :\n\nDiscutez avec votre chargé de TD pour avoir un avis ;\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nExigence de reproductibilité\n\nProjet utilisant des sources open-data ou scrappant des sites publics ;\nCode doit pouvoir être répliqué par chargé TD ;\nPas un projet Kaggle !"
-  },
-  {
-    "objectID": "index.html#examen-1",
-    "href": "index.html#examen-1",
-    "title": "Python pour la data science",
-    "section": "Examen",
-    "text": "Examen\n\nApprofondir des aspects du cours:\n\nTrois dimensions doivent être présentes dans le projet: manipuler, visualiser ou modéliser ;\nPlus ou moins loin selon les projets.\n\n\n\n\nExemples de sujets passés :\n\nSuggestions de trajets pour cyclistes ;\nCréation d’un système de réponse automatique aux tweets mentionnant la RATP ;\nVisualiser les performances des athlètes sur des courses niveau amateur ou professionel ;\nComparer la performance de modèles de gestion de portefeuille ;\n\n\n\n\n\n\n\n\nImportant\n\n\nDeadline en décembre 2023, date précisée ultérieurement\n\n\n\n\n\nPython pour la data science, ENSAE (Retour sur pythonds.linogaliana.fr)"
+    "objectID": "index.html#mise-en-oeuvre",
+    "href": "index.html#mise-en-oeuvre",
+    "title": "Découvrir la data science avec OpenFoodFacts",
+    "section": "Mise en oeuvre",
+    "text": "Mise en oeuvre\n\n1 tutoriel Python  s’appuie sur OpenFoodFacts (inseefrlab.github.io/funathon2023_sujet4/)\n\n\n\nIllustration pour progressivement apprendre à:\n\nNettoyer des données textuelles ;\nMachine learning pour catégoriser automatiquement ;\nDécouvrir dataviz avec une app Streamlit ;\nDéployer celle-ci sur internet\n\n\nApplication exemple: myyuka.lab.sspcloud.fr/\n\n\nOpenFoodFacts Days"
   },
   {
     "objectID": "LICENSE.html",
